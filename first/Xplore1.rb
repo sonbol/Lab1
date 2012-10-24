@@ -1,5 +1,5 @@
 # changes in the first subdirectory
-
+#change in the sandbox branch for second times
 
 CPATH="C:\\Weka-3-7\\weka.jar"
 def stratXval(train6cd, folds)
