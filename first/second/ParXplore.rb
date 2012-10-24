@@ -28,7 +28,7 @@
 #  all I really need for productivity improvement.
 
 <<<<<<< HEAD
-#IT IS THE SECOND CHANGE ON THE FILE
+#ITS CHANGE IN SANDBOX
 =======
 #THIS IS JUST A TEST FOR GIT
 >>>>>>> testing
