@@ -27,6 +27,8 @@
 #  will be fully portable insterad of split between many devices. That's
 #  all I really need for productivity improvement.
 
+#THIS IS THE FIRST CHANGE1
+
 #SONBOL: CHANGE THE cpath TO WHATEVER THE FULL PATH TO WEKA.JAR IS ON YOUR SYSTEM.
 CPATH="C:\\Weka-3-7\\weka.jar"
 as=Array.new

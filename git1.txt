@@ -1,0 +1,13 @@
+diff --git a/Xplore2.rb b/Xplore2.rb
+index a87878d..3bdd242 100644
+--- a/Xplore2.rb
++++ b/Xplore2.rb
+@@ -27,6 +27,8 @@
+ #  will be fully portable insterad of split between many devices. That's
+ #  all I really need for productivity improvement.
+ 
++#THIS IS THE FIRST CHANGE1
++
+ #SONBOL: CHANGE THE cpath TO WHATEVER THE FULL PATH TO WEKA.JAR IS ON YOUR SYSTEM.
+ CPATH="C:\\Weka-3-7\\weka.jar"
+ as=Array.new

@@ -1,4 +1,5 @@
-# Let's do some changes in the first subdirectory
+# changes in the first subdirectory
+
 
 CPATH="C:\\Weka-3-7\\weka.jar"
 def stratXval(train6cd, folds)
